@@ -1,0 +1,30 @@
+[
+  {
+    "config": {
+      "filter": {
+        "header": {
+          "test": "1"
+        }
+      }
+    },
+    "content": {
+      "name": "John1",
+      "age": 18,
+      "male": true
+    }
+  },
+  {
+    "config": {
+      "filter": {
+        "param": {
+          "test": "1"
+        }
+      }
+    },
+    "content": {
+      "name": "John2",
+      "age": 16,
+      "male": true
+    }
+  }
+]

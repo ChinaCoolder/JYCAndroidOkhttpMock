@@ -1,0 +1,10 @@
+{
+  "config": {
+    "enable": false
+  },
+  "content": {
+    "name": "John",
+    "age": 15,
+    "male": true
+  }
+}

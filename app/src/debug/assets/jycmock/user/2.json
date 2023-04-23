@@ -1,0 +1,12 @@
+{
+  "header": {
+    "version": "1",
+    "test1": "true",
+    "test2": "1.5"
+  },
+  "content": {
+    "name": "John",
+    "age": 15,
+    "male": true
+  }
+}
